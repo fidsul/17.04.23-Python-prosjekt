@@ -12,5 +12,3 @@ def arealregning(radius):
     pi = math.pi
     areal = radius**radius * pi
     return areal
-
-print(arealregning(2))
